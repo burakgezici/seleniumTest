@@ -6,8 +6,8 @@ public class ValuesGG {
 
 	public static final String LinkAdress ="https://www.gittigidiyor.com/";
 	public static final String searchProduct ="Bilgisayar";
-    public static final String kullaniciEposta ="burakgezici333@gmail.com";
-    public static final String kullaniciSifre ="lorenz35";
+    public static final String kullaniciEposta ="denememail@gmail.com";
+    public static final String kullaniciSifre ="denemesifre";
     public static final By Start = By.xpath("//header/div[3]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[2]/input[1]");
     public static final By Search = By.xpath("//header/div[3]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[2]/button[1]");
     public static final By RandomSearchProduct= By.className("img-cont");
