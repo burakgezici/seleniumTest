@@ -1,0 +1,1 @@
+In this project, using Java Selenium technology, login operations and adding to baskets were implemented. You can run the project by changing the username and password variables in the ValuesGG.Java file.
